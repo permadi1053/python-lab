@@ -35,4 +35,4 @@ print("maka faktor kompresibilitas (z) dan volum molar (v) " + komponen +
 print("z = " + str(z))
 print("v = " + str(v) + " L/gmol")
 print("terimakasih " + nama +
-      " sudah menggunaan volver ini, semoga bermanfaat")
+      " sudah menggunaan solver ini, semoga bermanfaat")
